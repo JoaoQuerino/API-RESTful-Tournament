@@ -1,0 +1,7 @@
+Status code: 200
+Headers: Content-Type: application/json
+Content-Length: 44
+
+
+Body: {"success":"Team logo added successfully!"}
+
